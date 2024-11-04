@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 # :sparkles: DoyoCodingTest
 
 ## :sparkles: 매일매일 풀어나가는 코딩테스트
@@ -29,7 +30,3 @@
 ## :sparkles: 기여 방법
 
 - 문제 해결 아이디어나 솔루션을 제안하고 싶다면 Issues에 남겨주세요 :grimacing:
-=======
-# DoyoCodingTest
-코딩테스트준비
->>>>>>> 1f416c15ad8094b914dffc978ba76b5c01d65675
